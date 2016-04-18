@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\SectorProgressView-master\example\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\android_github\SectorProgressView-master\example\build\intermediates\pre-dexed\debug\classes-b139398e8fcb0067e06bd4c59b8a61f858ae7f9d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SectorProgressView-master\example\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\android_github\SectorProgressView-master\example\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-fddd32ebbb252397983d2b1061d55e9d3167bbd3.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SectorProgressView-master\example\build\intermediates\exploded-aar\com.timqi.sectorprogressview\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3e9b4187dd1923317bef9a6cb26e911b3780d193">
+        <dex dex="D:\android_github\SectorProgressView-master\example\build\intermediates\pre-dexed\debug\classes-a46f267fd00dd561e7473f9305586820bec2aba6.jar" />
+    </item>
+    <item
+        jar="D:\android_github\SectorProgressView-master\example\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\android_github\SectorProgressView-master\example\build\intermediates\pre-dexed\debug\classes-97effbf1b4441b2507d733a6b08462c2686af4ab.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\android_github\SectorProgressView-master\example\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-c2a834644c1c672d9fdfa247500964fd5050cc2d.jar" />
+    </item>
+
+</items>
